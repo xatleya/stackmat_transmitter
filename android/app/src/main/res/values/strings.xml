@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CubeCompsForm</string>
+    <string name="loginHint">Login</string>
+    <string name="passwordHint">Password</string>
+    <string name="login">Submit</string>
+    <string name="error_no_login">Empty login !</string>
+    <string name="error_no_password">Empty password !</string>
+    <string name="action_settings">action settings</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- Main Activity -->
+    <string name="prompt_categories_name">Choose an event</string>
+    <string name="prompt_name">Choose a competitor</string>
+    <string name="time1_hint">Enter the first time (format : 0:00.00, DNF or DNS)</string>
+    <string name="time2_hint">Enter the second time</string>
+    <string name="time3_hint">Enter the third time</string>
+    <string name="time4_hint">Enter the fourth time</string>
+    <string name="time5_hint">Enter the fifth time</string>
+
+</resources>
